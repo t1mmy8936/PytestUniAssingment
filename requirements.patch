@@ -1,0 +1,9 @@
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -2,3 +2,6 @@
+ werkzeug==3.0.3
+ flask-WTF==1.0.1
+ pytest==7.0.1
++
++python-dotenv==1.0.1
++pytest-cov==4.1.0

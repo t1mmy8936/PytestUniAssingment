@@ -1,0 +1,4 @@
+Performance Summary
+-------------------
+Median timeit (200 calls): 0.016318s
+See cprofile_top10.txt for profile details.

@@ -1,0 +1,13 @@
+[timeit] Cart.get_total_price() over 200 calls: 0.004143s
+[timeit] Cart.get_total_price() over 200 calls: 0.015857s
+[timeit] Cart.get_total_price() over 200 calls: 0.015989s
+[timeit] Cart.get_total_price() over 200 calls: 0.016445s
+[timeit] Cart.get_total_price() over 200 calls: 0.016650s
+[timeit] Cart.get_total_price() over 200 calls: 0.016135s
+[timeit] Cart.get_total_price() over 200 calls: 0.003909s
+[timeit] Cart.get_total_price() over 200 calls: 0.016505s
+[timeit] Cart.get_total_price() over 200 calls: 0.016197s
+[timeit] Cart.get_total_price() over 200 calls: 0.016487s
+[timeit] Cart.get_total_price() over 200 calls: 0.015900s
+[timeit] Cart.get_total_price() over 200 calls: 0.016318s
+[timeit] Cart.get_total_price() over 200 calls: 0.004018s

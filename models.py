@@ -53,11 +53,7 @@ class Cart:
             self.items[book_title].quantity = quantity
 
     def get_total_price(self):
-        total = 0
-        for item in self.items.values():
-            for i in range(item.quantity):
-                total += item.book.price
-        return total
+        return sum(item.book.price * item.quantity for item in self.items.values())
 
     def get_total_items(self):
         return sum(item.quantity for item in self.items.values())
